@@ -1,0 +1,15 @@
+Ativando o python manualmente pelo cmd para funcionar os graficos
+
+Abra o Prompt de Comando (CMD) do Windows.
+
+Navegue até a pasta do seu projeto:
+
+
+cd C:\xampp\htdocs\fluenzisite
+
+Inicie a API Flask:
+
+
+python api.py
+
+Você deve ver a mensagem: * Running on http://127.0.0.1:5000
